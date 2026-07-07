@@ -1,0 +1,7 @@
+name = "cert-renewer"
+version = "0.1.0"
+description = "Certificate renewer"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
